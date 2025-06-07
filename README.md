@@ -7,8 +7,8 @@ json
 Copiar
 Editar
 {
-  "user_id": "gaaaahry",
-  "idade": 26,
+  "user_id": "bob",
+  "idade": 20,
   "interesses": ["cloud", "rock", "jogos"]
 }
 Agora, pensa que você quer fazer consultas rápidas, mas sem sempre depender da chave primária. É aí que os danados dos LSI e GSI aparecem. Bora lá! 
